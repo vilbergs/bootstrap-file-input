@@ -1,5 +1,5 @@
 {
-  "name": "grevory/bootstrap-file-input",
+  "name": "bootstrap-file-input",
   "version": "1.0.0",
   "description": "Standardizes the file input field to look like a Bootstrap button in all browsers",
   "license": "https://raw.githubusercontent.com/grevory/bootstrap-file-input/master/LICENSE",
