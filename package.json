@@ -7,8 +7,5 @@
     "demo-*",
     "**/*.md"
   ],
-  "main": ["./bootstrap.file-input.js"],
-  "dependencies": {
-    "jquery": "~1.7.1"
-  }
+  "main": ["./bootstrap.file-input.js"]
 }
